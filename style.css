@@ -1,0 +1,37 @@
+.header {
+  width: 100%;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(./img/pattern.jpeg);
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.heading-one {
+  background-color: mediumspringgreen;
+}
+
+.heading-two {
+  background-color: lightcoral;
+}
+
+.heading-three {
+  background-color: skyblue;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
